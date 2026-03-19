@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "我愛你-上海蟹-",
+  "base_artist": "カニ研究会",
+  "createdAt": "2026-03-19T09:12:37.541151Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "我愛你-上海蟹-",
+      "artist": "カニ研究会",
+      "has_synced": false,
+      "path": "select/pl_01_我愛你-上海蟹-_カニ研究会.txt"
+    }
+  ]
+}
